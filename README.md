@@ -1,4 +1,4 @@
-# Tree-NeRV (Coming soon...)
+# Tree-NeRV (coming soon...)
 Official implementation of Tree-NeRV: Tree-Structured Neural Representations for Scalable Video Compression (ICCV 2025)
 
 ![Framework](./assets/framework.png)
